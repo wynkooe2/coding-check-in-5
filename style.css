@@ -1,10 +1,8 @@
-/* your CSS goes into this file. For example:
-
-p {
-  color: #ff00ff;
-  text-decoration: underline;
+article {
+  font-family: Lucinda Sans;
 }
 
-btw, this is a CSS comment. Feel free to delete it.
-
- */
+.ingredients {
+  text-indent: 2em;
+  font-style: italic;
+}
