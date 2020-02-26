@@ -1,8 +1,28 @@
-article {
-  font-family: Lucinda Sans;
+body {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  margin: 2.5% 10%;
+  background-color: rgb(255, 232, 235);
 }
 
 .ingredients {
   text-indent: 2em;
   font-style: italic;
+}
+
+.header {
+  text-align: center;
+  color: darkslategray;
+}
+
+h1 {
+  color: black;
+  font-weight: 200em;
+}
+
+p {
+  text-indent: 2.5em;
+}
+
+li {
+  list-style-type: circle;
 }
